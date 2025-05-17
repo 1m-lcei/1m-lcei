@@ -1,16 +1,70 @@
-## Hi there 👋
+[![X URL][badge-x]][url-x]
+[![note][badge-note]][url-note]
+[![しずin][badge-sizu]][url-sizu]
 
-<!--
-**1m-lcei/1m-lcei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[badge-x]: https://img.shields.io/twitter/url?url=https://x.com/1m_lcei&label=@1m_lcei
+[url-x]: https://x.com/1m_lcei
 
-Here are some ideas to get you started:
+[badge-note]: https://img.shields.io/badge/note-@1m__lcei-fcfcfc?style=sns
+[url-note]: https://note.com/1m_lcei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[badge-sizu]: https://img.shields.io/badge/しずイン-@1m__lcei-fcfcfc?style=sns
+[url-sizu]: https://sizu.me/1m_lcei
+
+- [📝 けーについて](#-けーについて)
+- [💎 ブルーアーカイブ](#-ブルーアーカイブ)
+- [🗂️ アウトプット](#️-アウトプット)
+
+## 📝 けーについて
+
+けーと申します。
+
+マンガ、ゲーム、動画・配信視聴が好きなインターネットのオタクです。<br/>
+丁寧なインターネット生活を心掛けています。
+
+プレイしている運営型ゲームは現在、ブルーアーカイブ・アークナイツです。
+
+フォロー・リムーブご自由に。<br/>
+義務フォロバは不要で、自分もしません。
+
+
+## 💎 ブルーアーカイブ
+
+プレイ開始自体は今の基準なら早めの時期ですが、いわゆるログイン・デイリーミッション勢の時期が長く、ちゃんとプレイを始めたのは戦術対抗戦シーズン7の時期（2024年5月～）です。<br/>
+
+最終編と同じようなプレイ体験をもう一度味わいたい、というのが主な継続のモチベーションですが、普段はストーリー、戦術対抗戦、ファン活動を含む周辺コンテンツを楽しんでいます。
+
+ボスコンテンツは現在、難易度Lunatic🌙攻略が目標です。<br/>
+自身は必ずしも毎回頑張ることはしておらず、好きなプレイヤーやサークルを応援する競技観戦的な楽しみ方をしています。<br/>
+自分の最高順位は、207位 (総力戦 市街地 ヒエロニムス シーズン72)です。
+
+サークルは現在、「課金よりおいしいご飯」に所属しています。
+
+- プレイ開始: 野良サークル
+- 2024年10月: 課金よりおいしいご飯
+
+
+## 🗂️ アウトプット
+
+▶ ⭐ [ブルーアーカイブ ダメージ計算の仕組み](https://x.com/1m_lcei/status/1921509734915477768)
+
+2025年5月現在の視点で、ダメージ計算の仕組み部分を整理した本📕形式の記事です。
+
+後ろ暗いところのないよう誠実に書くことを心掛けたので、ダメ計に興味を持った第一歩としては良いものになっていると思います。（手前味噌）
+
+
+---
+
+▶ ⭐ [【ブルアカ】戦術対抗戦トーク 用語・概念集](https://x.com/1m_lcei/status/1855536553575243854)
+
+活き活きとしている用例が特徴の、「対抗戦用語集」的なものです。
+
+公開当時は、顔が浮かんでくるかのような用例のリアルさに読み物としても評判でしたが、今だと普通の用語集という感じになるかもしれません。
+
+---
+
+▶ ブログ記事
+
+たまに書いています。
+
+評判の良かった記事例：[戦術対抗戦シーズン8の振り返り記事](https://x.com/1m_lcei/status/1919016487127531524)
